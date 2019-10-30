@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Listas de empleados</title>
+</head>
+<body>
+    <p>[{
+        "name":"Jesus",
+        "age":31,
+        "hijos":[
+            { "edad":15, "name":"Alex" },
+            { "edad":18, "name":"Felipe" },
+            { "edad":9, "name":"Luciana" }
+        ]
+    },
+    { 
+        "name":"Julio",
+        "age":38,
+        "hijos":[
+            { "edad":25, "name":"Felix" },
+            { "edad":14, "name":"Pedro" },
+            { "edad":3, "name":"Lucas" }
+        ]
+    },
+    { 
+        "name":"Miguel",
+        "age":25,
+        "hijos":[
+            { "edad":7, "name":"Kelly" },
+            { "edad":1, "name":"Manuel" }
+        ]
+    }
+    
+    ]</p>
+</body>
+</html>
