@@ -1,0 +1,36 @@
+{
+	"trabajadores": [
+		{	
+		    "name":"Luis",
+		    "age":40,
+		    "hijos":[
+				{ "name":"Marcos", "edad":"14" },
+				{ "name":"Mirella", "edad":"10" },
+				{ "name":"Jose", "edad":"3" }
+		    ]
+		},
+		{
+		    "name":"Anna",
+		    "age":28,
+		    "hijos":[
+	    		{ "name":"Naty", "edad":"10" }
+		    ]
+		},
+		{
+		    "name":"Adrian",
+		    "age":21,
+		    "hijos":[
+	    		{ "name":"Karla", "edad":"2" }
+		    ]
+		},
+		{
+		    "name":"Priscila",
+		    "age":39,
+		    "hijos":[
+	    		{ "name":"Manuel", "edad":"14" },
+	    		{ "name":"Luz", "edad":"9" },
+	    		{ "name":"Brayan", "edad":"4" }
+		    ]
+		}	
+    ]
+}
